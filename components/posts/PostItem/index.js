@@ -4,7 +4,7 @@ const PostItem = ({id, title}) => {
     const router = useRouter()
 
     const showDetails = () => {
-        router.push('Admin/'+ id)
+        router.push('/'+ id)
     }
     return(
         <>
