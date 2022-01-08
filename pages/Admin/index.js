@@ -1,3 +1,4 @@
+import Nav from "../../components/layout/nav";
 const Admin = () => {
   return (
     <>
